@@ -17,6 +17,7 @@ no_index:
   directory:
     - inc
     - t
+    - xt
 requires:
   Any::Moose: 0.15
   Barcode::DataMatrix: 0.01
@@ -28,4 +29,4 @@ resources:
     type: git
     url: git://github.com/mstratman/HTML-Barcode-DataMatrix.git
     web: http://github.com/mstratman/HTML-Barcode-DataMatrix/tree
-version: 0.01
+version: 0.02
